@@ -21,7 +21,6 @@
     "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,md}\"",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "prepare": "husky",
     "preview": "vite preview",
     "start": "vite dev",
     "storybook": "storybook dev -p 6006",
