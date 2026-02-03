@@ -1,4 +1,5 @@
 ## React + TypeScript, v3 Course
+
 This is a companion repository for the [React + TypeScript, v3](https://frontendmasters.com/courses/react-typescript-v3/) course on Frontend Masters.
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/react-typescript-v3/)
 
